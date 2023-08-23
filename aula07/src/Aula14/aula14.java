@@ -4,11 +4,17 @@
  */
 package Aula14;
 
+import java.util.Scanner;
+
 public class aula14 {
+ public static void main(String [] arg ); 
+Scanner ler = new Scanner(System.in); 
+int escolha;
+
+do{
     
     
-    
- System.out.println("Hamburgue: R$ 30,00"");
+  System.out.println("Hamburgue: R$ 30,00"");
 break;
 case 2;  
 System.out.println("chooseburger: R$ 35,00");
@@ -27,5 +33,7 @@ System.out.println("opçaõ invalida");
 break;
 System.OutOfMemoryError.println("---------------------------");
 while(escolha 1=0);
-          
+             
+    
+}
 }
